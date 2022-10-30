@@ -2,7 +2,6 @@ body{
     background-color: #222222;
     margin: 0px;
 }
-
 *{
     margin-top: 0px;
     padding:0px;
@@ -49,7 +48,3 @@ aside{
     margin-bottom: 80px;
 }
 
-footer{
-    color: white;
-    background-color: brown;
-}
