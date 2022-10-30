@@ -1,0 +1,55 @@
+body{
+    background-color: #222222;
+    margin: 0px;
+}
+
+*{
+    margin-top: 0px;
+    padding:0px;
+}
+
+header{
+    background-color: brown;
+    color:white;
+    text-align: center;
+    font-size: 30px;
+}
+
+main{
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+}
+
+main article{
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: brown;
+    color: white;
+    border-radius: 2rem;
+    padding: 10px 50px;
+}
+
+.lista{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 170px;
+    background-color: brown;
+    color: white;
+    border-radius: 2rem;
+    padding: 10px 50px;
+}
+
+aside{
+    margin-top: 250px;
+    margin-right: 130px;
+}
+
+.videos{
+    margin-bottom: 80px;
+}
+
+footer{
+    color: white;
+    background-color: brown;
+}
